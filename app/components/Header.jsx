@@ -13,14 +13,14 @@ const Header = () => {
         whileInView={{ scale: 1 }}
         transition={{ duration: 0.8, type: 'spring', stiffness: 100 }}
       >
-        <Image src={assets.logo} alt="" className="w-50" />
+        <Image src={assets.logo} alt="" className="w-20" />
       </motion.div>
 
       <motion.h3
         initial={{ y: -20, opacity: 0 }}
         whileInView={{ y: 0, opacity: 1 }}
         transition={{ duration: 0.6, delay: 0.3 }}
-        className="flex items-end gap-2 text-xl md:text-2xl mb-3 font-Ovo"
+        className="flex items-end gap-2 text-xl md:text-2xl mb-3"
       >
         Hi! I’m Minh Dao
         <Image src={assets.hand_icon} alt="" className="w-6" />
@@ -30,7 +30,7 @@ const Header = () => {
         initial={{ y: -30, opacity: 0 }}
         whileInView={{ y: 0, opacity: 1 }}
         transition={{ duration: 0.8, delay: 0.5 }}
-        className="text-3xl sm:text-6xl lg:text-[66px]"
+        className="text-3xl sm:text-6xl lg:text-[66px] font-ovo"
       >
         Applied AI Researcher based in Tampa
       </motion.h1>
@@ -39,7 +39,7 @@ const Header = () => {
         initial={{ opacity: 0 }}
         whileInView={{ opacity: 1 }}
         transition={{ duration: 0.6, delay: 0.7 }}
-        className="max-w-2xl mx-auto font-Ovo"
+        className="max-w-2xl mx-auto"
       >
         I am a researcher and developer from University of South Florida with an
         interest in applying AI and Machine Learning algorithms to solve
