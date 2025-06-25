@@ -102,7 +102,7 @@ export const projectData = [
     {
         title: 'AI Fitness Trainer',
         description: 'AI application',
-        bgImage: '/work-1.avif',
+        bgImage: '/work-1.png',
         link: ''
     },
     {
