@@ -13,7 +13,7 @@ const Header = () => {
         whileInView={{ scale: 1 }}
         transition={{ duration: 0.8, type: 'spring', stiffness: 100 }}
       >
-        <Image src={assets.logo} alt="" className="w-20" />
+        <Image src={assets.logo} alt="" width={256}/>
       </motion.div>
 
       <motion.h3
