@@ -100,8 +100,8 @@ export const assets = {
 
 export const projectData = [
     {
-        title: 'AI Fitness Trainer',
-        description: 'AI application',
+        title: 'STEM Bot',
+        description: 'AI chatbot for education',
         bgImage: '/work-1.png',
         link: ''
     },
