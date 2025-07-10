@@ -133,7 +133,7 @@ export const workData = [
         name: "FPT Software AI Center",
         title: 'AI Engineer Intern', 
         date: 'May 2024 - Aug 2024',
-        description: ['Developed a cloud-based text-to-image model that merges multiple faces using fine-tuned attention mechanisms to boost quality and cut errors by 20%, serving 50,000 users.', 'PyTorch, OpenCV, Stable Diffusion, Flask'], 
+        description: ['Developed a cloud-based text-to-image model that merges multiple faces using fine-tuned UNet mechanisms to boost quality and cut errors by 20%, serving 50,000 users.', 'PyTorch, OpenCV, Stable Diffusion, Flask'], 
         link: 'https://wp.fpt-aic.com/trang-chu/'  
     },
     { 
@@ -141,7 +141,7 @@ export const workData = [
         name: "USF Computational Biophysics Lab",
         title: 'Research Assistant', 
         date: 'Oct 2024 - Present',
-        description: ['Fine-tuned a protein language model to predict ligand binding sites in protein structures, achieving an F1 score of 0.75.', 'PyTorch, Protein Data Bank (PDB) PDB Doctor, ESM2, Pandas, Matplotlib'], 
+        description: ['Fine-tuned a protein language model to predict ligand binding sites in protein structures, achieving an F1 score of 0.8.', 'PyTorch, Protein Data Bank (PDB) PDB Doctor, ESM2, Pandas, Matplotlib'], 
         link: 'http://labs.cas.usf.edu/cbb/'  
     },
     { 
