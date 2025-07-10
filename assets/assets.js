@@ -167,18 +167,8 @@ export const toolsData = [
 
 export const publicationData = [
     {
-        authors: "Tuan Minh Dao",
-        title: "Paper abcxyzf;aidvsdjvbsdjskdjnskdjnvksjdncksjndekjnsdkjcn",
-        venue: "Journals abcxyzf;aidvsdjvbsdjskdjnskdjnvksjdncksjndekjnsdkjcn"
-    },
-    {
-        authors: "Tuan Minh Dao",
-        title: "Paper abcxyzf;aidvsdjvbsdjskdjnskdjnvksjdncksjndekjnsdkjcn",
-        venue: "Journals abcxyzf;aidvsdjvbsdjskdjnskdjnvksjdncksjndekjnsdkjcn"
-    },
-    {
-        authors: "Tuan Minh Dao",
-        title: "Paper abcxyzf;aidvsdjvbsdjskdjnskdjnvksjdncksjndekjnsdkjcn",
-        venue: "Journals abcxyzf;aidvsdjvbsdjskdjnskdjnvksjdncksjndekjnsdkjcn"
+        authors: "Tuan Minh Dao, Taseef Rahman",
+        title: "Deep Generative Modeling of Protein Conformations: A Comprehensive Review",
+        venue: ""
     },
 ]
